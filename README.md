@@ -184,8 +184,6 @@ clone and make pull requests to this repository. Or you can
 clone the project and establish your own branch of this tool.
 Any methods are welcome!
 
-[vscode-grammarly]: https://marketplace.visualstudio.com/items?itemName=znck.grammarly
-
 ### 🔬 Development
 
 To run the test locally, you will need the following tools:
@@ -244,3 +242,8 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 See [`LICENSE`](./LICENSE.txt) for details.
+
+
+<!-- Links -->
+
+[vscode-grammarly]: https://marketplace.visualstudio.com/items?itemName=znck.grammarly
